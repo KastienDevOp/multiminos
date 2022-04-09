@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KataReborn267/multiminos/static/css/main.e6c13ad2.css",
+    "main.js": "/KataReborn267/multiminos/static/js/main.dc63e685.js",
+    "index.html": "/KataReborn267/multiminos/index.html",
+    "main.e6c13ad2.css.map": "/KataReborn267/multiminos/static/css/main.e6c13ad2.css.map",
+    "main.dc63e685.js.map": "/KataReborn267/multiminos/static/js/main.dc63e685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dc63e685.js"
+  ]
+}
